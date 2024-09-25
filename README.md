@@ -18,3 +18,7 @@ The project showcases key Flutter features:
 - **State Management**: Uses `Provider` for efficient data management and updates.
 - **Fully Responsive**: Adapts seamlessly to different device sizes and orientations.
 - **Clean Code**: Follows best practices to ensure maintainability and scalability.
+
+## Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/EBpzjwy8Ds8/hqdefault.jpg)](https://youtube.com/shorts/EBpzjwy8Ds8?feature=share)
